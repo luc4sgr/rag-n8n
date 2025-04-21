@@ -32,7 +32,9 @@ Sempre que um arquivo for **criado ou atualizado** em uma pasta do Google Drive,
 
 ## 🔁 Fluxo do Workflow
 
-![Workflow](c15a1f25-b5f4-4107-9417-7b34da11865e.png)
+
+
+
 
 ---
 
