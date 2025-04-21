@@ -79,7 +79,7 @@ Sempre que um arquivo for **criado ou atualizado** em uma pasta do Google Drive,
 ## ✨ Autor
 
 Desenvolvido por **Lucas Oliveira**  
-[@23.lucasdoliveira](mailto:23.lucasdoliveira@gmail.com)
+[@23.lucasdoliveira](mailto:contact.lucasdev@gmail.com)
 
 ---
 
