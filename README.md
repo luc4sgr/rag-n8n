@@ -32,7 +32,8 @@ Sempre que um arquivo for **criado ou atualizado** em uma pasta do Google Drive,
 
 ## 🔁 Fluxo do Workflow
 
-![Captura de tela 2025-04-21 122654](https://github.com/user-attachments/assets/640c1d2f-83ef-4bf6-810e-b7c74b3a2f0e)
+![image](https://github.com/user-attachments/assets/2122a49f-6200-486b-b3d7-7f47eb5e8836)
+
 
 ---
 
