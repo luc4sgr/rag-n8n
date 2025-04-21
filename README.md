@@ -76,12 +76,6 @@ Sempre que um arquivo for **criado ou atualizado** em uma pasta do Google Drive,
 
 ---
 
-## 📂 Arquivo do Workflow
-
-> (Adicione aqui o arquivo exportado do n8n em `.json` para facilitar a importação)
-
-
-
 ## ✨ Autor
 
 Desenvolvido por **Lucas Oliveira**  
